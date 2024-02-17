@@ -12,4 +12,9 @@ British Airways CX Analysis is an assessment of the customer experience provided
 ### Task 1 Workflow
 ![image](https://github.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro/assets/101001907/464e1633-a858-4ff9-9ef2-3ca379a35e1b)
 
+**Sentiment Analysis across travel classes for British Airways**
+
+![image](https://github.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro/assets/101001907/0fe9ea74-ab2d-4068-8b52-f23aa5517d7a)
+
+
 
