@@ -9,5 +9,7 @@ British Airways CX Analysis is an assessment of the customer experience provided
 - Identify opportunities for enhancing customer satisfaction
 - Analyze customer feedback and data and provide recommendations for enhancing the overall CX
 
+### Project Workflow
+![image](https://github.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro/assets/101001907/464e1633-a858-4ff9-9ef2-3ca379a35e1b)
 
 
