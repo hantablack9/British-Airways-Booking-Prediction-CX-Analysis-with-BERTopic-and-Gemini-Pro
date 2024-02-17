@@ -18,7 +18,18 @@ British Airways CX Analysis is an assessment of the customer experience provided
 ![image](https://github.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro/assets/101001907/2cf98eaf-81db-427e-a85c-086621b2a9b8)
 
 **Sentiment Analysis across travel classes for British Airways**
+
 ![image](https://github.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro/assets/101001907/0fe9ea74-ab2d-4068-8b52-f23aa5517d7a)
 
 ![image](https://github.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro/assets/101001907/aa048832-7915-44a9-bf64-bcff3a02e6f5)
+
+**Identify Domain words**
+1. Some common tokens (such as ‘flight’, ‘ba’) spuriously increase sentence similarity (cosine)
+2. Stop words, domain words and other “non-informative” tokens discarded to improve discriminative power of topic model
+3. HDBSCAN clustering performance improves, by clustering around less-frequent, topic-specific tokens
+
+![image](https://github.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro/assets/101001907/38de1537-0e11-4d49-a4e5-a1cff4ede958)
+
+![image](https://github.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro/assets/101001907/f4d8919f-c9a5-42d4-b256-50d72575ba5d)
+
 
