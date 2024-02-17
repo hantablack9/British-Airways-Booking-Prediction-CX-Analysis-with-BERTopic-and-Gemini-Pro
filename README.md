@@ -36,6 +36,7 @@ British Airways CX Analysis is an assessment of the customer experience provided
 ![image](https://github.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro/assets/101001907/e94bf011-54fd-4bea-8a29-ea3bfb2b0c4d)
 
 **Visualize Inter-Topic Distance with DataMapPlot**
+
 ![image](https://github.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro/assets/101001907/22d6c549-520e-42cd-9e06-aa6fd790c221)
 
 **Resolving CX challenges: Recommendations**
@@ -43,6 +44,7 @@ British Airways CX Analysis is an assessment of the customer experience provided
 ![image](https://github.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro/assets/101001907/e6850559-1a77-4f43-8005-4ce48a449edb)
 
 **Recommendations for BA Engineering and Analytics**
+
 ![image](https://github.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro/assets/101001907/0e697371-768c-4dda-b4e2-5d6eb5c3a9f3)
 
 # Sources
@@ -60,4 +62,3 @@ British Airways CX Analysis is an assessment of the customer experience provided
 12. Graham, A. (2020) "U.K. regional airports" Air Transport and Regional Development Case Studies , pp. 64-85. Available at: https://doi.org/10.4324/9781003092063-5.
 13. Havlovic, S.J. (2020) "European works councils in the airline industry," Strategic Innovative Marketing and Tourism , pp. 1-6. Available at: https://doi.org/10.1007/978-3-030-36126-6_1
 14. Light, L. (2020) British Airways needs to revitalize its Brand , Forbes . Forbes Magazine. Available at: https://www.forbes.com/sites/larrylight/2020/08/14/british-airways-needs-to-revitalize-its-brand/?sh=6eaeef0d747e
-
