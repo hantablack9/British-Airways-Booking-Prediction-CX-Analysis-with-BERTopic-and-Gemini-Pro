@@ -47,6 +47,9 @@ British Airways CX Analysis is an assessment of the customer experience provided
 
 ![image](https://github.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro/assets/101001907/0e697371-768c-4dda-b4e2-5d6eb5c3a9f3)
 
+
+[![hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro context](https://badge.forgithub.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro)](https://uithub.com/hantablack9/British-Airways-Booking-Prediction-CX-Analysis-with-BERTopic-and-Gemini-Pro)
+
 # Sources
 1. British Airways - statistics & facts https://www.statista.com/topics/5372/british-airways/#topicOverview
 2. British Airways Plc: Competitors https://www.globaldata.com/company-profile/british-airways-plc/competitors/
